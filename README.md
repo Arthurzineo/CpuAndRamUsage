@@ -61,6 +61,9 @@ Exemplo abaixo (executado por 3 minutos e com intervalo de 1 minuto):
 
 Por fim, na pasta raiz da execução, será criado um arquivo chamado `Coleta.csv`, que contém todas as informações coletadas.
 
+![image](https://github.com/Arthurzineo/CpuAndRamUsage/assets/78982690/144ec780-f1be-49e9-a041-91e7267d8e46)
+
+
 
 
 
