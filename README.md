@@ -63,6 +63,8 @@ Por fim, na pasta raiz da execução, será criado um arquivo chamado `Coleta.cs
 
 ![image](https://github.com/Arthurzineo/CpuAndRamUsage/assets/78982690/144ec780-f1be-49e9-a041-91e7267d8e46)
 
+(Observação em % De CPU os dados são mostrados no formato onde 10.0 = 100% e 0.7 = 7%
+
 
 
 
